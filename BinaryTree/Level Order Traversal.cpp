@@ -9,7 +9,6 @@
         T val;
         BinaryTreeNode<T> *left;
         BinaryTreeNode<T> *right;
-
         BinaryTreeNode(T val) {
             this->val = val;
             left = NULL;
